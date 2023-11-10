@@ -11,7 +11,7 @@ function App() {
                     Pablo Fabian Gatica Pinto
                 </p>
                 <p>
-                    Juanito
+                    Leonardo Vásquez
                 </p>
 
                 <a
