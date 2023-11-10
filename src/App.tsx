@@ -10,6 +10,10 @@ function App() {
                 <p>
                     Pablo Fabian Gatica Pinto
                 </p>
+                <p>
+                    Juanito
+                </p>
+
                 <a
                     className="App-link"
                     href="https://reactjs.org"
